@@ -41,11 +41,11 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
   ## Materiale
   
   Su questa pagina verrà rilasciato il materiale presentato a lezione (slide, appunti, esercitazioni)
-  Si consiglia di approfondire le tematiche sui libri di testo:
+  Si consiglia di approfondire le tematiche sui libri di testo (disponibili online):
   
   - D.A. Forsyth, J. Ponce   –   Computer Vision – A Modern Approach   –   Pearson, 2nd edition
-  - C.M. Bishop, H. Bishop - Deep Learning - Foundations and Concepts  - Springer (available online)
-  - A. Zhang, Z.C. Lipton, M. Li, A.J. Smola - Dive into Deep Learning (available online: https://d2l.ai/index.html)
+  - C.M. Bishop, H. Bishop - Deep Learning - Foundations and Concepts  - Springer  
+  - A. Zhang, Z.C. Lipton, M. Li, A.J. Smola - Dive into Deep Learning  
   
   ## Modalità d'esame
   
