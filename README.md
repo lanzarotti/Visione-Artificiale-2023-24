@@ -2,7 +2,7 @@
 
 ## ORARIO:
 
-- Lunedì e Venerdi h 13.45 - 16:30 aula OMEGA
+- Lunedì e Venerdì h 13.45 - 16:30 aula OMEGA
 
 - Il Corso comincerà lunedì 4 marzo
 
