@@ -1,5 +1,12 @@
 # Visione Artificiale 2023-24
 
+# AVVISO:
+
+Causa Sciopero Generale, la lezione di domani è annullata. 
+Prossima lezione Lunedì 11  marzo. 
+
+
+
 ## ORARIO:
 
 - Lunedì e Venerdì h 13.45 - 16:30 aula OMEGA
