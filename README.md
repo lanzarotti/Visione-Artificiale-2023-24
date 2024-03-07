@@ -2,7 +2,7 @@
 
 # AVVISO:
 
-Causa Sciopero Generale, la lezione di domani è annullata. 
+Causa Sciopero Generale, la lezione di domani 8 marzo è annullata. 
 Prossima lezione Lunedì 11  marzo. 
 
 
