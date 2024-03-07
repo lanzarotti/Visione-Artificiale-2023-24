@@ -1,9 +1,7 @@
 # Visione Artificiale 2023-24
 
-# <span style="color:red">
-AVVISO
-</span>
-
+## AVVISO
+ 
 Causa Sciopero Generale, la **lezione di domani 8 marzo è annullata**. 
 Prossima lezione Lunedì 11  marzo. 
 
