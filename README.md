@@ -1,5 +1,9 @@
 # Visione Artificiale 2023-24
 
+
+## AVVISO:
+Causa sciopero, la lezione di lunedì 22 aprile è annullata. Prossima lezione lunedì 29 arpile
+
  
 ## ORARIO:
 
