@@ -2,14 +2,11 @@
 
 
 ## AVVISO:
-Causa infuenza, la lezione di lunedì 6 maggio è annullata. Prossima lezione venerdì 10 maggio
-
+Per un impegno imprevisto sarò impossibilitata a essere presente all'appello del 13 giugno.
+La prova d'esame si terrà il giorno **14 giugno, alle ore 9:30** e durerà 1 ora e 30 minuti.
+L'aula verrà pubblicata negli avvisi sulla pagina del corso di GPU Computing (prof. Grossi): gpu.di.unimi.it.
+Nel caso siate impossibilitati in tale data, scrivetemi per definire un appuntamento per la settimana successiva.
  
-## ORARIO:
-
-- Lunedì e Venerdì h 13.45 - 16:30 aula OMEGA
-
-- Il Corso comincerà lunedì 4 marzo
 
 ## Introduzione al corso
 
