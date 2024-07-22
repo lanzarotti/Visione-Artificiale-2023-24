@@ -2,12 +2,9 @@
 
 
 ## AVVISO:
-Per un impegno imprevisto sarò impossibilitata a essere presente all'appello del 13 giugno.
-La prova d'esame si terrà il giorno **14 giugno, alle ore 9:30** e durerà 1 ora e 30 minuti.
-L'aula verrà pubblicata negli avvisi sulla pagina del corso di GPU Computing (prof. Grossi): gpu.di.unimi.it.
-Nel caso siate impossibilitati in tale data, scrivetemi per definire un appuntamento per la settimana successiva.
  
-
+La prova d'esame del 24 luglio si sovlgerà alle ore 14.30 in sala riunioni al 4^ piano
+ 
 ## Introduzione al corso
 
 La visione artificiale si occupa della creazione di sistemi in grado di acquisire, elaborare e analizzare immagini e video allo scopo di consentire ai computer di "vedere", "capire" ed  estrarne informazioni utili.
