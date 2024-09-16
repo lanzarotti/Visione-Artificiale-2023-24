@@ -3,7 +3,7 @@
 
 ## AVVISO:
  
-La prova d'esame del 24 luglio si sovlgerà alle ore 14.30 in sala riunioni al 4^ piano
+La prova d'esame del 19 settembre si sovlgerà alle ore 14.00 in aula 109 (Edificio 3) 
  
 ## Introduzione al corso
 
